@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum2\\CupidServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8860A08A-4F87-474F-B98A-884C60F69438}|CupidClient\\CupidClient.csproj|c:\\users\\user\\desktop\\klonirani\\snus-kolokvijum2\\cupidserver\\cupidclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8860A08A-4F87-474F-B98A-884C60F69438}|CupidClient\\CupidClient.csproj|solutionrelative:cupidclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7923E7AE-951F-469E-BA3A-3DC9642BECB1}|CupidServer\\CupidServer.csproj|c:\\users\\user\\desktop\\klonirani\\snus-kolokvijum2\\cupidserver\\cupidserver\\controllers\\cupidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7923E7AE-951F-469E-BA3A-3DC9642BECB1}|CupidServer\\CupidServer.csproj|solutionrelative:cupidserver\\controllers\\cupidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7923E7AE-951F-469E-BA3A-3DC9642BECB1}|CupidServer\\CupidServer.csproj|c:\\users\\user\\desktop\\klonirani\\snus-kolokvijum2\\cupidserver\\cupidserver\\hubs\\cupidhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7923E7AE-951F-469E-BA3A-3DC9642BECB1}|CupidServer\\CupidServer.csproj|solutionrelative:cupidserver\\hubs\\cupidhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7923E7AE-951F-469E-BA3A-3DC9642BECB1}|CupidServer\\CupidServer.csproj|c:\\users\\user\\desktop\\klonirani\\snus-kolokvijum2\\cupidserver\\cupidserver\\models\\letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7923E7AE-951F-469E-BA3A-3DC9642BECB1}|CupidServer\\CupidServer.csproj|solutionrelative:cupidserver\\models\\letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7923E7AE-951F-469E-BA3A-3DC9642BECB1}|CupidServer\\CupidServer.csproj|c:\\users\\user\\desktop\\klonirani\\snus-kolokvijum2\\cupidserver\\cupidserver\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7923E7AE-951F-469E-BA3A-3DC9642BECB1}|CupidServer\\CupidServer.csproj|solutionrelative:cupidserver\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7923E7AE-951F-469E-BA3A-3DC9642BECB1}|CupidServer\\CupidServer.csproj|c:\\users\\user\\desktop\\klonirani\\snus-kolokvijum2\\cupidserver\\cupidserver\\services\\cupidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7923E7AE-951F-469E-BA3A-3DC9642BECB1}|CupidServer\\CupidServer.csproj|solutionrelative:cupidserver\\services\\cupidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7923E7AE-951F-469E-BA3A-3DC9642BECB1}|CupidServer\\CupidServer.csproj|c:\\users\\user\\desktop\\klonirani\\snus-kolokvijum2\\cupidserver\\cupidserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7923E7AE-951F-469E-BA3A-3DC9642BECB1}|CupidServer\\CupidServer.csproj|solutionrelative:cupidserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CupidService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum2\\CupidServer\\CupidServer\\Services\\CupidService.cs",
+              "RelativeDocumentMoniker": "CupidServer\\Services\\CupidService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum2\\CupidServer\\CupidServer\\Services\\CupidService.cs",
+              "RelativeToolTip": "CupidServer\\Services\\CupidService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T11:15:13.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum2\\CupidServer\\CupidServer\\Program.cs",
+              "RelativeDocumentMoniker": "CupidServer\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum2\\CupidServer\\CupidServer\\Program.cs",
+              "RelativeToolTip": "CupidServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T11:12:33.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Letter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum2\\CupidServer\\CupidServer\\Models\\Letter.cs",
+              "RelativeDocumentMoniker": "CupidServer\\Models\\Letter.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum2\\CupidServer\\CupidServer\\Models\\Letter.cs",
+              "RelativeToolTip": "CupidServer\\Models\\Letter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T11:14:32.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum2\\CupidServer\\CupidServer\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "CupidServer\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum2\\CupidServer\\CupidServer\\Models\\Person.cs",
+              "RelativeToolTip": "CupidServer\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T11:14:24.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CupidHub.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum2\\CupidServer\\CupidServer\\Hubs\\CupidHub.cs",
+              "RelativeDocumentMoniker": "CupidServer\\Hubs\\CupidHub.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum2\\CupidServer\\CupidServer\\Hubs\\CupidHub.cs",
+              "RelativeToolTip": "CupidServer\\Hubs\\CupidHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T11:14:00.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CupidController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum2\\CupidServer\\CupidServer\\Controllers\\CupidController.cs",
+              "RelativeDocumentMoniker": "CupidServer\\Controllers\\CupidController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum2\\CupidServer\\CupidServer\\Controllers\\CupidController.cs",
+              "RelativeToolTip": "CupidServer\\Controllers\\CupidController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T11:13:08.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum2\\CupidServer\\CupidClient\\Program.cs",
+              "RelativeDocumentMoniker": "CupidClient\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\klonirani\\snus-kolokvijum2\\CupidServer\\CupidClient\\Program.cs",
+              "RelativeToolTip": "CupidClient\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T11:10:44.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

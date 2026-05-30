@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CupidServer\\CupidServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CupidClient\\CupidClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

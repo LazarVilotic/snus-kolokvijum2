@@ -8,7 +8,7 @@ A real-time PubSub matchmaking simulation built with **ASP.NET Core** + **Signal
 
 ```
 ┌─────────────────┐        SignalR         ┌──────────────────────┐
-│   CupidClient   │ ◄──────────────────── │    CupidServer       │
+│   CupidClient   │ ◄────────────────────  │    CupidServer       │
 │  (Console App)  │                        │  ASP.NET Core + Hub  │
 │                 │ ──── REST (register,   │                      │
 │                 │       confirm, block)─►│  CupidService        │
